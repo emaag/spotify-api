@@ -12,7 +12,7 @@ A RESTful API built with **Laravel 12** that connects to the **Spotify API**, fe
 ## 🚀 Features
 
 - ✅ Spotify artist data via REST API
-- ✅ Laravel 11 with modern practices
+- ✅ Laravel 12 with modern practices
 - ✅ Auto-generated API docs at `/docs/api`
 - ✅ Optional Sanctum authentication
 - ✅ Dockerized for easy environment setup
